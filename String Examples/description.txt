@@ -1,0 +1,1 @@
+this examples explains how to deal with the string in the arduino compiler
